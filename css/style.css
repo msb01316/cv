@@ -1,0 +1,121 @@
+body {
+    margin: 0px;
+    font-size: 140%;
+    font-family: 'Rasa';
+    background-color: rgb(255, 245, 255);
+}
+
+
+.intro-text {
+    display: inline-block;
+    width: 700px;
+    margin: auto;
+    text-align: left;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.body-main {
+    margin-left: 20px;
+
+    
+
+}
+
+
+
+.body-footer {
+    font-size: 70%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#headshot_pic {
+    display: inline-block;
+    width: 300px;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.catchphrase {
+    font-family: 'Ranga';
+    color:rgb(164, 100, 224);
+    font-size: 90%;
+}
+
+.mathnasium-link {
+    color: rgb(68, 215, 215);
+    text-decoration: none;
+}
+
+.mathnasium-link:hover {
+    color: rgb(24, 94, 94);
+}
+
+
+h3 {
+    color:hotpink;
+}
+
+.button {
+    color: rgb(148, 184, 197);
+    border-style: solid;
+    padding: 10px;
+    text-decoration: none;
+    background-color: aliceblue;
+}
+
+.button:hover {
+    color: rgb(35, 86, 104);
+}
+
+.button-container {
+    text-align: center;
+    
+}
+
+hr {
+    border: 1px dotted;
+    border-radius: 3em;
+    width: 99%;
+}
+
+
+.language-picture {
+    width: 200px;
+    float: left;
+    vertical-align: top;
+    margin-right: 30px;
+    
+}
+
+.language-text {
+    vertical-align: top;
+    
+}
+
+.leadership-picture {
+    width: 180px;
+    vertical-align: top;
+}
+
+.leadership-text {
+    float: left;
+    margin-right: 30px;
+}
+
+.skills-picture {
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin-right: 20px;
+
+}
+
+.form-container {
+    columns: 2;
+}
+
+.contact-page {
+    margin: 10px;
+}
